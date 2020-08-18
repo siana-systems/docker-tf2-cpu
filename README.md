@@ -1,4 +1,4 @@
-# SIANA TensorFlow/Keras Development Docker for CPU-Host
+# SIANA TensorFlow/Keras Docker for CPU-Host
 
 This repo is used to build a docker image for deep-learning development targeting TensorFlow 2.0 with Keras.
 
